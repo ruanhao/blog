@@ -47,4 +47,4 @@ ct_netconfc 是 Common Test 框架中的一个功能子集，无法直接当做�
 而 ct_netconfc 的实现则简单明了许多，只是为了尽快得到可以使用的数据结构，
 这种端到端的设计思路逻辑清晰，代码量也不多。
 
-`Offer solution in a simple way` ，这就是 Erlang 语言的性格。
+`Offer solution in a simple way` ，这就是 Erlang 的性格。
